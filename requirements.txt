@@ -1,0 +1,1 @@
+With the pip install command you will only need to install pandas, matplot and plotly
